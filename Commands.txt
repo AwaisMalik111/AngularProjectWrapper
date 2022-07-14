@@ -1,0 +1,7 @@
+docker pull username/repo-name:latest
+
+docker run -p 1010:80 image name
+
+docker build .
+
+docker login --username= --password=

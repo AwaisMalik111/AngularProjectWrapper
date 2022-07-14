@@ -1,0 +1,10 @@
+1, .SLN file and Dockerfile should be in the same directory.
+
+2, Replace builtIn Dockerfile with given dockerfile which is placed on Guide folder and edit the file according to your project.
+
+3, When you install the docker then open the docker container and goto settings>resources>proxies and put the proxy address.
+
+4, Goto windows and open the TurnWindowsFeatureOn dialogue and enable the docker services.(Screenshot is available in the same folder).
+
+5, Open CMD in the project directory and execute the project in the docker container with the help of Docker Commands. 
+ 
